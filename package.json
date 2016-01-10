@@ -1,0 +1,23 @@
+{
+  "name": "smarttv-empty",
+  "version": "0.1.0",
+  "description": "Empty app for SmartTv",
+  "main": "index.js",
+  "author": "Mario Lamacchia <mariolamacchia@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolamacchia/smarttv-empty/issues"
+  },
+  "bugs": {
+    "url": "https://github.com/mariolamacchia/smarttv-empty/issues"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/mariolamacchia/smarttv-youtube#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "smarttv": "^0.1.5"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}
