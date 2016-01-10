@@ -12,7 +12,7 @@
     "url": "https://github.com/mariolamacchia/smarttv-empty/issues"
   },
   "license": "ISC",
-  "homepage": "https://github.com/mariolamacchia/smarttv-youtube#readme",
+  "homepage": "https://github.com/mariolamacchia/smarttv-empty#readme",
   "dependencies": {},
   "devDependencies": {
     "smarttv": "^0.1.5"
