@@ -1,1 +1,0 @@
-var smarttv = require('smarttv');
